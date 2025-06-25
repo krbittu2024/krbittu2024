@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krbittu2024&label=Profile%20views&color=0e75b6&style=flat" alt="krbittu2024" /> </p>
 
-- 🌱 I’m currently learning **C++, DSA, Web Development.**
+- 🌱 I’m currently learning **C++, DSA, Full Stack Web Development.**
 
 - 📫 How to reach me **krbittu2024@gmail.com**
 
